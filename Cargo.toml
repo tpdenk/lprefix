@@ -11,4 +11,4 @@ repository = "https://github.com/tsatke/lprefix"
 
 [dependencies]
 termion = "1.5.6"
-rand = "0.8.4"
+rand = "0.9.3"
